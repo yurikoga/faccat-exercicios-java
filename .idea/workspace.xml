@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa94b54a-23a1-4e5e-9bd1-eb86430b9a94" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yurikoga&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yurikoga/faculdadeFlamingo20262SemestreTurmaAJava.git&quot;,
+    &quot;accountId&quot;: &quot;84aa1c6d-a02f-4b80-ab23-f7832a85f941&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3INfTd3Own3CFZ34WGFzmsCJotC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cronometro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaDeDecisaoSimples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploNarrowingCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploWhile01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploWhile02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploWideningCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio10CustoCarroNovo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio13MediaDoAluno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio14MaiorQueDez.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio17MediaSimplesDoAluno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio18PermissaoParaVotar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio19MaiorQue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio20OrdemCrescente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio21HoraDoXadrez.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio22HorasExtras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio24VendasEfetuadas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio25ContaDoCliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio26QuantidadeEmEstoque.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio27PositivoNegativoZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio28ComparacaoDeValores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio29ComparacaoESoma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio29_1ComparacaoESoma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio29_2ComparacaoESoma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio29_3ComparacaoESoma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio30ComparacaoEOrdemCrescente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio31FormacaoDeTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio32DecisaoDePlacar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio33TresMensagens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio35PostoDeCombustivel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio36SomaEProduroDeIdades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio37Fruteira.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio38CodigoDoUsuario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio40Produto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio41MediaDeAproveitamento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio42QualificacaoAposentadoria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio43TesteDeMesa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio7AlgoritmoDeIdade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio8PercentualDeEleitores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio9ReajusteSalarial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L01A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L01B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L01C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MetodoDeVerificacaoDeNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temporizador.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrador/IdeaProjects/java2Semestre2026/src/flamingo/java/aprendendo/introducao/exercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrador\IdeaProjects\java2Semestre2026\src\flamingo\java\aprendendo\introducao\exercicios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aluno\IdeaProjects\faculdadeFlamingo20262SemestreTurmaAJava\src\flamingo\java\aprendendo\introducao" />
+      <recent name="C:\Users\aluno\IdeaProjects\faculdadeFlamingo20262SemestreTurmaAJava\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="flamingo.java.aprendendo.introducao.aulaPresencial" />
+      <recent name="flamingo.java.aprendendo.introducao.basico" />
+      <recent name="flamingo.java.aprendendo.introducao.exercicios.faccat" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa94b54a-23a1-4e5e-9bd1-eb86430b9a94" name="Changes" comment="" />
+      <created>1787609957823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787609957823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/aulas-do-professor-bigode" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/apostilaFaccat/Exercicio22HorasExtras.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/flamingo/java/aprendendo/introducao/exercicios/apostilaFaccat/Exercicio38CodigoDoUsuario.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
